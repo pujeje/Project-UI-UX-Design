@@ -15,8 +15,8 @@ As a UI/UX designer, balancing complex information architectures (such as course
 
 ## Project Description 
 
-### 1. EduPro — Academic Website
-* **Desc:** A website design that can predict pupils’ academic performance based on data such as attendance, assignment marks and exam results.
+### 1. EduPro — Academic Mobile Apps
+* **Desc:** A Mobile Apps design that can predict pupils’ academic performance based on data such as attendance, assignment marks and exam results.
 * **Focus:** Engineered a modular, card-based dashboard utilizing soft, eye-friendly pastel accents and clear typographic hierarchy for quick status checks on GPA, upcoming lectures, and assignment deadlines.
 
 ### 2. Floral & Co. — E-Commerce Plant Shop
